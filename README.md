@@ -34,6 +34,14 @@ This project uses **Logistic Regression** to predict whether a tumor is malignan
 
 4. Open your browser and go to http://127.0.0.1:5000 to use the app 🖱️
 
+## Future Improvements 🚀
+
+- Integrate more advanced models like Random Forests, SVM, or deep learning for improved accuracy.
+- Add support for real-time data input and live predictions.
+- Enhance the Flask web app with better UI/UX and mobile responsiveness.
+- Implement detailed explanation and visualization of model predictions (e.g., SHAP or LIME).
+- Extend the dataset with more features and larger, diverse patient data.
+
 ## Author ✍️
 
 Made with ❤️ by **Suhana Kesharwani**  
