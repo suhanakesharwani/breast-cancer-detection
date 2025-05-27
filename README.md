@@ -1,5 +1,7 @@
 # Breast Cancer Detection Project 🎗️🔬🤖
 
+![Breast Cancer Detection Screenshot](screenshot.png)
+
 ## Description 📝
 
 This project uses **Logistic Regression** to predict whether a tumor is malignant or benign based on features from the breast cancer dataset. It aids in early diagnosis and can help improve patient outcomes. 🏥❤️
